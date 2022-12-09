@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Coletiva Ambiental",
+    "desc": "Site institucional de uma empresa de coletas de óleo de fritura usado, criado com PHP, MYSQL e BOOTSTRAP.",
+    "image": "coletiva",
+    "category": "Web",
+    "links": {
+      "view": "https://coletiva-ambiental.com",
+      "code": "https://coletiva-ambiental.com"
+    }
+  },
+  {
+    "name": "Site Luciano Personal",
+    "desc": "Site apresentação personal trainer, criado com PHP, MYSQL e BOOTSTRAP.",
+    "image": "luciano",
+    "category": "web",
+    "links": {
+      "view": "https://lucianofernandes.website/luciano/",
+      "code": "https://github.com/devdudumuniz"
+    }
+  },
+  {
+    "name": "Central de marcação de exames",
+    "desc": "Sistemade gerenciamento de vagas para marcação de exames da central de marcação de exames da secretaria municipal de saúde de barra do choça.",
+    "image": "central",
+    "category": "web",
+    "links": {
+      "view": "http://149.78.176.0:8080/agendamento/",
+      "code": "https://github.com/devdudumuniz"
+    }
+  },
+  {
+    "name": "Smart System",
+    "desc": "Sistema completo de gestão hospitalar criado com BOOTSTRAP, PYTHON, PHP e MYSQL, seguindo padrão MVC",
+    "image": "smartsystem",
+    "category": "Web",
+    "links": {
+      "view": "http://149.78.176.0:8182/smartsystem/",
+      "code": "https://github.com/devdudumuniz"
+    }
+  },
+  {
+    "name": "Eduque System",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "escola",
+    "category": "Web",
+    "links": {
+      "view": "http://149.78.176.0:9080/escola",
+      "code": "https://github.com/devdudumuniz"
+    }
+  },
+  {
+    "name": "Trind7 suplementos",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "trind",
+    "category": "Web",
+    "links": {
+      "view": "https://trind7.com",
+      "code": "https://github.com/devdudumuniz"
+    }
+  }
+]
